@@ -1,0 +1,4 @@
+Making the dimension tables from the Sakila database:
+I made the dimension tables for customers, staff, film, payment, and rental
+Making a fact table for film
+Performing a type of aggregation (COUNT Function) from the Sakila database
